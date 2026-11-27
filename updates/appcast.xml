@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Aftermath</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Thu, 26 Nov 2026 08:38:34 -0800</pubDate>
-            <sparkle:version>1.0.6</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Fri, 27 Nov 2026 12:18:28 -0800</pubDate>
+            <sparkle:version>1.0.8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/StressPointer-Labs/aftermath-downloads/releases/download/app-1.0.6/Aftermath-1.0.6.zip" length="341302060" type="application/octet-stream" sparkle:edSignature="8lfgKrjTFQ/cYNrWgViSfFw/H6jTIjdwkmyJdzuZxd4C3DnLVbxdzTLhafnq7XFfdjPi6FkrKrr2LHcKFDDWDw=="></enclosure>
+            <enclosure url="https://github.com/StressPointer-Labs/aftermath-downloads/releases/download/app-1.0.8/Aftermath-1.0.8.zip" length="341318192" type="application/octet-stream" sparkle:edSignature="puhTLdDjBvzr/ivTrW306/AH2B99pTO2pW3UZAIsw3wbw93EOMUV2sIfo3a3XuYezbutrLF+IOMdKi8gpg4DBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: t9dOOqIPdQJ7SvNTihwPk+e+E4Brtfb1iW5GWOZyL6mgoORan1AUcGnaSxUwYpXBLNlb9ud5w3U2njSe+iNvAA==
+edSignature: JztFUqz7NqaPnVZR0G7YV9igAjhq2s8HI8yzi+UWSOnmSPbYfkJw4vl9UoufXlvJjgwsAMPBnE47luBDkwFlCw==
 length: 1073
 -->
